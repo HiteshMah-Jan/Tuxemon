@@ -37,7 +37,7 @@ To run an individual component (e.g. core/prepare.py):
 """
 from argparse import ArgumentParser
 
-# trigger for hook firstName
+# trigger for hook again firstName
 
 if __name__ == '__main__':
     print('this file will be removed in the future and replaced with "run_tuxemon.py"')
