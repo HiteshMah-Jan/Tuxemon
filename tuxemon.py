@@ -34,6 +34,8 @@ To run an individual component (e.g. core/prepare.py):
 
 `python -m core.prepare`
 
+commit for hook
+
 """
 from argparse import ArgumentParser
 
